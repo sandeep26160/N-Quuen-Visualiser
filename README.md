@@ -1,1 +1,1 @@
-# N-Quuen-Visualiser
+# N-Queen-Visualiser
